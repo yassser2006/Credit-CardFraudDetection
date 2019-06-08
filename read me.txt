@@ -1,0 +1,5 @@
+This program can run at jupyter notebook with python 3.7
+
+You first need to download the dataset from the link below
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3 
